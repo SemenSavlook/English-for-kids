@@ -1,0 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+dist
+.eslintrc
+README.md
+tsconfig.json
+webpack.config.js
